@@ -4,7 +4,7 @@
 build:
   version: developProfileisactive
 card:
-  message: "dev card user is active"
+  message: "devloper card user is active"
   contactDetails:
     phoneNumber: 9997865023
     email: "{cipher}9a389017d165aee8cd7b6d3dc649051b22adfcf32fb51895f98498a0962b791d4584bea6f9b77efcb36706c07140972b"
