@@ -1,0 +1,11 @@
+
+build:
+  version: "default profile is active"
+card:
+  message: "default card user is active"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "palprashant18970@gmail.com"
+  instaId:
+    - "defaultpalprashant283"
+    - "defaultpalprashant18970"

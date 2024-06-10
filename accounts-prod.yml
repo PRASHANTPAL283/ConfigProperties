@@ -1,0 +1,15 @@
+
+
+
+
+
+build:
+  version: Prodprofileisactive
+card:
+  message: "prod card user is active"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "prodpalprashant18970@gmail.com"
+  instaId:
+    - "prodpalprashant283"
+    - "prodpalprashant18970"

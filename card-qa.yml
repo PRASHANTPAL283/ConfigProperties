@@ -1,0 +1,10 @@
+build:
+  version: "qa profile is active"
+card:
+  message: "qa card user is active"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "qa palprashant18970@gmail.com"
+  instaId:
+    - "qa palprashant283"
+    - "qa palprashant18970"

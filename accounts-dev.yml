@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: developProfileisactive
+card:
+  message: "dev card user is active"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "devpalprashant18970@gmail.com"
+  instaId:
+    - "devpalprashant283"
+    - "devpalprashant18970"

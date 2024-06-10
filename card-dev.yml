@@ -1,0 +1,11 @@
+
+build:
+  version: "dev profile is active"
+card:
+  message: "dev card user is active"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "dev palprashant18970@gmail.com"
+  instaId:
+    - "dev palprashant283"
+    - "dev palprashant18970"

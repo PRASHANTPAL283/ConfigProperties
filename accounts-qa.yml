@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: Qaprofileisactive
+card:
+  message: "qa card user is active checj"
+  contactDetails:
+    phoneNumber: 9997865023
+    email: "qapalprashant18970@gmail.com"
+  instaId:
+    - "qapalprashant283"
+    - "qapalprashant18970"
