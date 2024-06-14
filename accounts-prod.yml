@@ -6,7 +6,7 @@
 build:
   version: Prodprofileisactive
 card:
-  message: "prod card user is active"
+  message: "prod card user for docker  is active"
   contactDetails:
     phoneNumber: 9997865023
     email: "prodpalprashant18970@gmail.com"
