@@ -25,4 +25,13 @@ spring:
 
     hibernate:
       ddl-auto: update
+eureka:
+  instance:
+    hostname: "localhost"
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: "http://eurekaserver:8762/eureka/"
 
